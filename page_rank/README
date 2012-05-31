@@ -1,0 +1,33 @@
+
+
+How to run:
+./page_ranker inp/i2.txt 10 .8
+
+For verbose debugging:
+./page_ranker inp/i2.txt 10 .8 -d
+
+References:
+    ref1: http://ilpubs.stanford.edu:8090/457/1/2000-37.pdf
+    ref2: http://kraeutler.net/vincent/essays/google%20page%20rank%20in%20python
+    [ in particular: G = d* (H + A) + (1 - d) 1_N . eq (1) ]
+
+Handling of special nodes:
+    1. Self-Loops are discarded
+    2. Hanging-nodes and 0-out-degree nodes contribute d/N each. 
+       [Hence, if the graph has k hanging nodes - we will get d*k/N contribution from them.]
+       This is akin to adding a hidden/implicit edge from any 0-out-degree node to all of the nodes. 
+       (Including itself: we did remove explicit self-loops though.)
+    
+
+Data structures:
+
+Graph : Vector of Nodes 
+
+Node : 
+Vector of Node-Indices that Link-Into this node: linkedBy ]
+[ There is also a Vector of Node-Indices that this node Links-to. This is redundant right now. It can be replaced by a single integer variable. 
+This is used for finding nodes that have 0-out-degree. ]
+
+Thus, Graph and Node - are "sparse" representations. 
+Storage is O(Node + Edge).
+We can improve the memory-access performance by having paged-allocators for nodes.

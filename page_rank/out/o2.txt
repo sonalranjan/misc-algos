@@ -1,0 +1,81 @@
+INFO: Graph NumLeaks: 0
+**************
+Node 0 rank 0.2
+Node 1 rank 0.2
+Node 2 rank 0.2
+Node 3 rank 0.2
+Node 4 rank 0.2
+**************
+**** Iteration: 0 rank_dist_l2=0.113137 ****
+**** Iteration: 1 rank_dist_l2=0.0783837 ****
+**** Iteration: 2 rank_dist_l2=0.062707 ****
+**** Iteration: 3 rank_dist_l2=0.0480299 ****
+**** Iteration: 4 rank_dist_l2=0.0342696 ****
+**** Iteration: 5 rank_dist_l2=0.0270212 ****
+**** Iteration: 6 rank_dist_l2=0.02039 ****
+**** Iteration: 7 rank_dist_l2=0.0165296 ****
+**** Iteration: 8 rank_dist_l2=0.0128321 ****
+**** Iteration: 9 rank_dist_l2=0.0104316 ****
+**** Iteration: 10 rank_dist_l2=0.00816688 ****
+**** Iteration: 11 rank_dist_l2=0.00661984 ****
+**** Iteration: 12 rank_dist_l2=0.00520531 ****
+**** Iteration: 13 rank_dist_l2=0.00420841 ****
+**** Iteration: 14 rank_dist_l2=0.00332192 ****
+**** Iteration: 15 rank_dist_l2=0.00268068 ****
+**** Iteration: 16 rank_dist_l2=0.00212275 ****
+**** Iteration: 17 rank_dist_l2=0.0017103 ****
+**** Iteration: 18 rank_dist_l2=0.00135761 ****
+**** Iteration: 19 rank_dist_l2=0.00109233 ****
+**** Iteration: 20 rank_dist_l2=0.000868616 ****
+**** Iteration: 21 rank_dist_l2=0.000698062 ****
+**** Iteration: 22 rank_dist_l2=0.00055586 ****
+**** Iteration: 23 rank_dist_l2=0.000446309 ****
+**** Iteration: 24 rank_dist_l2=0.000355738 ****
+**** Iteration: 25 rank_dist_l2=0.000285401 ****
+**** Iteration: 26 rank_dist_l2=0.000227696 ****
+**** Iteration: 27 rank_dist_l2=0.000182568 ****
+**** Iteration: 28 rank_dist_l2=0.000145712 ****
+**** Iteration: 29 rank_dist_l2=0.000116767 ****
+**** Iteration: 30 rank_dist_l2=9.32623e-05 ****
+**** Iteration: 31 rank_dist_l2=7.47131e-05 ****
+**** Iteration: 32 rank_dist_l2=5.96849e-05 ****
+**** Iteration: 33 rank_dist_l2=4.77976e-05 ****
+**** Iteration: 34 rank_dist_l2=3.82082e-05 ****
+**** Iteration: 35 rank_dist_l2=3.05998e-05 ****
+**** Iteration: 36 rank_dist_l2=2.4467e-05 ****
+**** Iteration: 37 rank_dist_l2=1.95987e-05 ****
+**** Iteration: 38 rank_dist_l2=1.5679e-05 ****
+**** Iteration: 39 rank_dist_l2=1.256e-05 ****
+**** Iteration: 40 rank_dist_l2=1.00311e-05 ****
+**** Iteration: 41 rank_dist_l2=8.00803e-06 ****
+**** Iteration: 42 rank_dist_l2=6.40648e-06 ****
+**** Iteration: 43 rank_dist_l2=5.14196e-06 ****
+**** Iteration: 44 rank_dist_l2=4.1304e-06 ****
+**** Iteration: 45 rank_dist_l2=3.3296e-06 ****
+**** Iteration: 46 rank_dist_l2=2.65525e-06 ****
+**** Iteration: 47 rank_dist_l2=2.10734e-06 ****
+**** Iteration: 48 rank_dist_l2=1.68587e-06 ****
+**** Iteration: 49 rank_dist_l2=1.3487e-06 ****
+**** Iteration: 50 rank_dist_l2=1.09582e-06 ****
+**** Iteration: 51 rank_dist_l2=8.85084e-07 ****
+**** Iteration: 52 rank_dist_l2=7.16496e-07 ****
+**** Iteration: 53 rank_dist_l2=5.90056e-07 ****
+**** Iteration: 54 rank_dist_l2=4.63615e-07 ****
+**** Iteration: 55 rank_dist_l2=3.79322e-07 ****
+**** Iteration: 56 rank_dist_l2=3.37175e-07 ****
+**** Iteration: 57 rank_dist_l2=2.95028e-07 ****
+**** Iteration: 58 rank_dist_l2=2.52881e-07 ****
+**** Iteration: 59 rank_dist_l2=2.10734e-07 ****
+**** Iteration: 60 rank_dist_l2=1.68587e-07 ****
+**** Iteration: 61 rank_dist_l2=1.26441e-07 ****
+**** Iteration: 62 rank_dist_l2=8.42937e-08 ****
+**** Iteration: 63 rank_dist_l2=4.21468e-08 ****
+**** Iteration: 64 rank_dist_l2=0 ****
+Stopping iterations. 0 converged to less than 1e-08 ****
+**************
+Node 0 rank 0.142029
+Node 1 rank 0.153623
+Node 2 rank 0.101449
+Node 3 rank 0.312721
+Node 4 rank 0.290177
+**************
